@@ -6,6 +6,24 @@
   "directories": {
     "test": "test"
   },
+  
+  "keywords": [
+    "random",
+    "quote",
+    "generator",
+    "inspiration",
+    "motivation",
+    "text",
+    "author",
+    "content",
+    "library",
+    "npm",
+    "package",
+    "utility",
+    "developer",
+    "open-source"
+  ],
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
