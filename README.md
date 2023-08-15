@@ -7,7 +7,7 @@ A simple npm package to generate and retrieve random quotes.
 Install the package using npm:
 
 ```bash
-npm install random-quote-generator
+npm install randoquoter
 
 ```
 
