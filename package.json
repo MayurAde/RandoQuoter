@@ -6,7 +6,6 @@
   "directories": {
     "test": "test"
   },
-  
   "keywords": [
     "random",
     "quote",
@@ -23,7 +22,6 @@
     "developer",
     "open-source"
   ],
-
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
